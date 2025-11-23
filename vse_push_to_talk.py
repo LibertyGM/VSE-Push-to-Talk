@@ -2,7 +2,7 @@ bl_info = {
     "name": "VSE Push-to-Talk (Header+Progress, Channel-aware, Formats, Timer)",
     "author": "Konstantin Liberty",
     "version": (1, 0, 0),
-    "blender": (4, 0, 0),
+    "blender": (5, 0, 0),
     "location": "Video Sequence Editor > Header (центр) + Sidebar: Audio > Push-to-Talk",
     "description": "Mic record to project folder, insert in...strip's channel, choose format, show on-timeline progress bar.",
     "category": "Sequencer",
